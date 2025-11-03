@@ -8,7 +8,7 @@
 
 -------
 
-[![TKT-TECH](https://raw.githubusercontent.com/TKTTECH1/TKT-CYBER-TECH/main/assets/mr.svg)](https://whatsapp.com/channel/0029Vb5vbMM0LKZJi9k4ED1a)
+[![TKTTECH1](https://raw.githubusercontent.com/TKTTECH1/TKT-CYBER-TECH/main/assets/mr.svg)](https://whatsapp.com/channel/0029Vb5vbMM0LKZJi9k4ED1a)
 
 
 -------------
