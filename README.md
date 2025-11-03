@@ -94,7 +94,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FFFF00&background=000000&center=true&vCenter=true&width=600&lines=⚠️+Add+creds.json+file+in+session+folder+⚠️" alt="Important Notice">
   
   <br><br>
-  <a href="SOON">
+  <a href="https://tkt-cyber-tech-session.onrender.com">
     <img src="https://img.shields.io/badge/🔑_GET_PAIR_CODE_SESSION-FF00FF?style=for-the-badge&logo=key&logoColor=white&labelColor=000000" width="300"/>
   </a>
 </div>
